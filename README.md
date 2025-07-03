@@ -12,7 +12,7 @@ This repo is your go-to for end-to-end SQL workflows, from crafting efficient qu
 
 🔎 Current Projects
 
-🎵 SQL Spotify Data Analysis Project🎧 Dive into raw Spotify data, uncover listening trends, and visualize insights like top artists, popular genres, and user preferences using SQL queries and visualization tools!
+🎵 SQL Spotify Data Analysis Project🎧 Dive into raw Spotify data, uncover listening trends, and visualize insights like top artists, popular genres, and user preferences using SQL queries.
 
 =========================================================
 
