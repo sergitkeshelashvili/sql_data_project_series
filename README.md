@@ -14,6 +14,8 @@ This repo is your go-to for end-to-end SQL workflows, from crafting efficient qu
 
 🎵 SQL Spotify Data Analysis Project🎧 Dive into raw Spotify data, uncover listening trends, and visualize insights like top artists, popular genres, and user preferences using SQL queries.
 
+ 🛒 SQL Retail Sales Analysis Project. This project contains SQL queries to create, validate, explore, and analyze a retail sales dataset.
+
 =========================================================
 
 💸🚀 Upcoming Projects (Planned)
