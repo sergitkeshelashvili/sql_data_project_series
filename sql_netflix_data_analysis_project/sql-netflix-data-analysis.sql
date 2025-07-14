@@ -1,7 +1,9 @@
 -- 1. Retrieves all records from the netflix table
 -- A simple SELECT query to display all columns and rows in the 'netflix' table.
 
-SELECT * FROM netflix;
+SELECT
+*
+FROM netflix;
 
 -- 2. Counts the total number of records
 -- Returns the total count of content entries in the 'netflix' table.
