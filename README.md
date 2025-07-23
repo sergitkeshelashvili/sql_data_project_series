@@ -17,6 +17,8 @@ This repo is your go-to for end-to-end SQL workflows, from crafting efficient qu
  🛒 SQL Retail Sales Analysis Project: This project contains SQL queries to create, validate, explore, and analyze a retail sales dataset.
 
  📺 SQL Netflix Data Analysis Project: Explore Netflix viewing data, analyze user watch patterns, and extract insights on popular shows, genres, and viewing trends using SQL queries.
+ 
+ ☕ SQL Coffee Sales Analysis Project: Analyze coffee sales data to uncover revenue trends, customer behavior, product performance, and city-level insights using SQL queries, including aggregations, joins, window functions, and CTEs.
 
 =========================================================
 
